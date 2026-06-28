@@ -1,5 +1,5 @@
 "use client";
-
+import { assetPath } from "@/lib/paths";
 import Image from "next/image";
 import Link from "next/link";
 import { ArrowRightIcon } from "@/components/Icons";
@@ -16,7 +16,7 @@ export function ProductCard({ product }: { product: Product }) {
             className="object-cover transition duration-500 group-hover:scale-[1.03]"
             fill
             sizes="(min-width: 1024px) 25vw, (min-width: 768px) 33vw, 100vw"
-            src={product.images[0]}
+            src={assetPath(product.images[0])}
           />
         </div>
       </Link>

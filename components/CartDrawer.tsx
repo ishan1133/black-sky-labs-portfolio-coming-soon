@@ -1,5 +1,5 @@
 "use client";
-
+import { assetPath } from "@/lib/paths";
 import Image from "next/image";
 import Link from "next/link";
 import { useState } from "react";
@@ -109,7 +109,7 @@ export function CartDrawer() {
                           className="object-cover"
                           fill
                           sizes="80px"
-                          src={product.images[0]}
+                          src={assetPath(product.images[0])}
                         />
                       </div>
 
