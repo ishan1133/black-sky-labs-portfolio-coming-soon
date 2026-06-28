@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1400" fill="none">
+  <rect width="1200" height="1400" fill="#080808"/>
+  <g opacity=".18" stroke="#F3F3F3">
+    <path d="M90 160H1110M90 320H1110M90 480H1110M90 640H1110M90 800H1110M90 960H1110M90 1120H1110"/>
+    <path d="M180 100V1300M360 100V1300M540 100V1300M720 100V1300M900 100V1300"/>
+  </g>
+  <rect x="90" y="90" width="1020" height="1220" rx="36" stroke="#F5F5F5" stroke-opacity=".28"/>
+  <path d="M300 760H900L760 680H520L300 760Z" stroke="#F5F5F5" stroke-width="8"/>
+  <path d="M900 760L780 840H380L300 760" stroke="#F5F5F5" stroke-width="8"/>
+  <path d="M600 560V980" stroke="#F5F5F5" stroke-opacity=".35" stroke-dasharray="14 16"/>
+  <text x="120" y="170" fill="#F5F5F5" fill-opacity=".9" font-family="Arial, Helvetica, sans-serif" font-size="32" letter-spacing="10">BLACK SKY LABS</text>
+  <text x="120" y="230" fill="#F5F5F5" fill-opacity=".55" font-family="Arial, Helvetica, sans-serif" font-size="22" letter-spacing="8">X-51 WAVERIDER BLUEPRINT TEE</text>
+  <text x="120" y="1180" fill="#F5F5F5" fill-opacity=".5" font-family="Arial, Helvetica, sans-serif" font-size="22" letter-spacing="6">HYPERSONIC TEST ARTICLE / PLACEHOLDER TECHNICAL ART</text>
+</svg>
